@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>8fa6477d-f846-4daa-b053-c799a8b11825</identifier>
+    <formatId>http://www.isotc211.org/2005/gmd</formatId>
+    <size>13955</size>
+    <checksum algorithm="SHA1">c148dc95aea7e8118d7a247af4e2f20fa3116ff5</checksum>
+    <submitter>http://orcid.org/0000-0003-4703-1974</submitter>
+    <rightsHolder>http://orcid.org/0000-0002-0855-8477</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>http://orcid.org/0000-0002-0855-8477</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+        <allow>
+            <subject>CN=arctic-data-admins,DC=dataone,DC=org</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="false" numberReplicas="0">
+        <blockedMemberNode>urn:node:KNB</blockedMemberNode>
+        <blockedMemberNode>urn:node:mnUCSB1</blockedMemberNode>
+    </replicationPolicy>
+    <obsoletes>dcx_8fa6477d-f846-4daa-b053-c799a8b11825_0</obsoletes>
+    <archived>false</archived>
+    <dateUploaded>2020-04-30T17:58:29.491+00:00</dateUploaded>
+    <dateSysMetadataModified>2020-04-30T18:04:32.865+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:ARCTIC</originMemberNode>
+    <authoritativeMemberNode>urn:node:ARCTIC</authoritativeMemberNode>
+    <fileName>8fa6477d_f846_4daa_b053_c799a8b11825.xml</fileName>
+</ns3:systemMetadata>

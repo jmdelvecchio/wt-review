@@ -1,0 +1,1 @@
+4973c5f94934a0eeff4ae08be737672d data/wt6_air_temperature.csv

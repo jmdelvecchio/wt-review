@@ -1,0 +1,7 @@
+50766ff33aaded000c9820c17c70ed37 data/wt4.csv
+c4c575748c1375e7e8cfd3764e369690 data/wt5.csv
+6837ff00c74dc208782d23a60104f848 data/wt2.csv
+95ca450ac10548729f3f1f0a06e2773e data/wt1.csv
+f6e0697614041d07cf9643bdae3d8996 data/thermocouple_nest_coordinates.csv
+42d3b2bf8763a9282c7d63878126eb1d data/wt6.csv
+036eced13f6ee197c9be84104114470d data/wt3.csv

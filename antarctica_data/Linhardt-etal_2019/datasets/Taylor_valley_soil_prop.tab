@@ -1,0 +1,66 @@
+/* DATA DESCRIPTION:
+Citation:	Linhardt, Tobias; Levy, Joseph S; Thomas, Christoph K (2023): Soil thermal properties of a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica. PANGAEA, https://doi.org/10.1594/PANGAEA.904284, 
+	In supplement to: Linhardt, T et al. (2019): Water tracks intensify surface energy and mass exchange in the Antarctic McMurdo Dry Valleys. The Cryosphere, 13(8), 2203-2219, https://doi.org/10.5194/tc-13-2203-2019
+Keyword(s):	land-air exchange; Permafrost; polar desert; soil hydrology; surface energy balance; water track
+Related to:	Foken, Thomas; Göckede, Mathias; Mauder, Matthias; Mahrt, L; Amiro, B; Munger, W (2004): Post-Field Data Quality Control, in: Handbook of Micrometeorology. Lee, X; Law, B; Massman, W (eds.), Atmospheric and Oceanographic Sciences Library, Springer Science + Business Media Inc, Dordrecht, 181-208, https://doi.org/10.1007/1-4020-2265-4_9
+	Göckede, Mathias (2001): Die Verwendung des footprint-Modells nach SCHMID (1997) zur stabilitätsabhängigen Bestimmung der Rauhigkeitslänge. Arbeitsergebnisse, Universität Bayreuth, Abt. Mikrometeorologie, 1-28, https://epub.uni-bayreuth.de/267/
+	Thomas, Christoph K; Law, Beverly E; Irvine, James; Martin, Jonathan G; Pettijohn, J Cory; Davis, Kent J (2009): Seasonal hydrology explains interannual and seasonal variation in carbon and water exchange in a semiarid mature ponderosa pine forest in central Oregon. Journal of Geophysical Research, 114(G4), https://doi.org/10.1029/2009JG001010
+Other version:	Soil thermal properties of a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica - data text file (URI: https://store.pangaea.de/Publications/LinhardtT-etal_2019/Soil.zip)
+Coverage:	MEDIAN LATITUDE: -77.580012 * MEDIAN LONGITUDE: 163.491858 * SOUTH-BOUND LATITUDE: -77.580970 * WEST-BOUND LONGITUDE: 163.483780 * NORTH-BOUND LATITUDE: -77.576320 * EAST-BOUND LONGITUDE: 163.495270
+	DATE/TIME START: 2013-01-05T14:10:00 * DATE/TIME END: 2013-01-07T16:30:00
+	MINIMUM DEPTH, soil: 0.00 m * MAXIMUM DEPTH, soil: 0.38 m
+Event(s):	Taylor_valley * LATITUDE: -77.637000 * LONGITUDE: 162.842000 * LOCATION: Transantarctic Mountains
+Parameter(s):	Comment (Comment) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu) * COMMENT: Event
+	DATE/TIME (Date/Time) * GEOCODE * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu) * COMMENT: Center time of averaging interval
+	Sensor type (Sensor) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Conductivity, thermal [W/m/K] (k) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Resistivity, thermal [(°C cm)/W] (rho) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Heat capacity, volumetric [MJ/m/K] (Heat cap vol) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Thermal diffusivity [mm**2/s] (kappa) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Goodness of fit (r**2) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu) * COMMENT: for data model
+	Sample ID (Sample ID) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Resistivity, thermal [(°C cm)/W] (rho) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Location (Location) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	Description (Description) * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	DEPTH, soil [m] (Depth soil) * GEOCODE * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	LATITUDE (Latitude) * GEOCODE * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+	LONGITUDE (Longitude) * GEOCODE * PI: Levy, Joseph S (https://orcid.org/0000-0002-6222-139X, jlevy@colgate.edu)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0) (URI: https://creativecommons.org/licenses/by/4.0/)
+Size:	385 data points
+*/
+Comment (Event)	Date/Time (Center time of averaging inte...)	Sensor	k [W/m/K]	rho [(°C cm)/W]	Heat cap vol [MJ/m/K]	kappa [mm**2/s]	r**2 (for data model)	Sample ID	rho [(°C cm)/W]	Location	Description	Depth soil [m]	Latitude	Longitude
+paleolake delta (non-water track)	2013-01-05T14:10	SH-1	0.278	359.4	1.286	0.216	0.0019	19.51	2	KD2 1 TC	disturbed. refilled	0.00	-77.58081	163.49252
+paleolake delta (non-water track)	2013-01-05T14:17	SH-1	0.271	369.0	1.350	0.201	0.0019	17.37	2	KD2 2 near TC	undisturbed	0.00	-77.58080	163.49265
+paleolake delta (non-water track)	2013-01-05T14:23	SH-1	0.237	421.9	1.139	0.208	0.0017	18	2	KD2 3 near TC	undisturbed	0.00	-77.58079	163.49257
+paleolake delta (non-water track)	2013-01-05T14:29	SH-1	0.290	344.6	1.394	0.208	0.0023	17.22	2	KD2 4 Hobos	disturbed. refilled	0.00	-77.58073	163.49237
+paleolake delta (non-water track)	2013-01-05T14:37	SH-1	0.278	359.9	1.514	0.184	0.0010	17.2	2	KD2 5 near Hobos	undisturbed	0.00	-77.58072	163.49423
+paleolake delta (non-water track)	2013-01-05T14:44	SH-1	0.373	267.9	1.531	0.244	0.0019	15.15	2	KD2 6 footprint transect	undisturbed. center of polygon	0.00	-77.58050	163.49091
+paleolake delta (non-water track)	2013-01-05T14:52	SH-1	0.260	384.3	1.388	0.187	0.0014	16.16	2	KD2 7 footprint transect	undisturbed. edge of polygon	0.00	-77.58053	163.49214
+paleolake delta (non-water track)	2013-01-05T14:58	SH-1	0.247	404.5	1.265	0.195	0.0016	16.47	2	KD2 8 footprint transect	undisturbed. center of polygon	0.00	-77.58057	163.49347
+paleolake delta (non-water track)	2013-01-05T15:04	SH-1	0.274	365.6	1.317	0.208	0.0013	17.35	2	KD2 9 footprint transect	undisturbed. trough	0.00	-77.58048	163.49344
+paleolake delta (non-water track)	2013-01-05T15:12	SH-1	0.645	155.0	1.339	0.482	0.0049	16.05	2	KD2 10 footprint transect	undisturbed. trough. salt crust	0.00	-77.58051	163.49397
+paleolake delta (non-water track)	2013-01-05T15:20	SH-1	0.254	393.5	1.342	0.189	0.0024	16.07	2	KD2 11 profile1 02cm	undisturbed. near edge	0.02	-77.58052	163.49380
+paleolake delta (non-water track)	2013-01-05T15:25	SH-1	0.320	312.6	1.397	0.229	0.0039	11.08	2	KD2 11 profile1 08cm	undisturbed. near edge	0.08	-77.58052	163.49380
+paleolake delta (non-water track)	2013-01-05T15:30	SH-1	0.325	307.6	1.380	0.236	0.0026	5.06	2	KD2 11 profile1 18cm	undisturbed. near edge	0.18	-77.58052	163.49380
+paleolake delta (non-water track)	2013-01-05T15:36	SH-1	0.341	293.1	1.127	0.303	0.0045	2.28	2	KD2 11 profile1 26cm	undisturbed. near edge	0.26	-77.58052	163.49380
+paleolake delta (non-water track)	2013-01-05T15:49	SH-1	0.693	144.3	1.381	0.502	0.0096	0.76	2	KD2 12 profile2 38cm	undisturbed. center of polygon	0.38	-77.58070	163.49384
+paleolake delta (non-water track)	2013-01-05T15:56	SH-1	0.705	141.8	1.561	0.452	0.0074	2.14	2	KD2 12 profile2 27cm	undisturbed. center of polygon	0.27	-77.58070	163.49384
+paleolake delta (non-water track)	2013-01-05T16:01	SH-1	0.401	249.4	1.114	0.360	0.0065	4.16	2	KD2 12 profile2 19cm	undisturbed. center of polygon	0.19	-77.58070	163.49384
+paleolake delta (non-water track)	2013-01-05T16:06	SH-1	0.268	372.7	1.294	0.207	0.0066	9.11	2	KD2 12 profile2 08cm	undisturbed. center of polygon	0.08	-77.58070	163.49384
+paleolake delta (non-water track)	2013-01-05T16:13	SH-1	0.273	365.9	1.342	0.204	0.0051	15.09	2	KD2 12 profile2 02cm	undisturbed. center of polygon	0.02	-77.58070	163.49384
+paleolake delta (non-water track)	2013-01-05T16:34	SH-1	0.845	118.3	1.371	0.616	0.0129	14.87	2	KD2 13 path to A	saline melt pond. no water	0.00	-77.57809	163.48482
+paleolake delta (non-water track)	2013-01-05T16:39	SH-1	0.643	155.5	1.416	0.454	0.0067	12.55	2	KD2 14 path to A	saline melt pond. no water (?)	0.00	-77.57807	163.48502
+water track	2013-01-05T17:03	SH-1	1.161	86.1	2.244	0.518	0.0056	12.18	2	KD2 3 W-E transect	Center of WT. wet soi. no salt	0.00	-77.57646	163.48401
+paleolake delta (non-water track)	2013-01-07T13:57	SH-1	0.523	191.2	1.289	0.406	0.0026	2.97	2	KD2 1 snow bare soil	Center of Polygon. wet soil. no snow	0.00	-77.58097	163.49527
+paleolake delta (non-water track)	2013-01-07T14:06	SH-1	0.234	427.2	1.136	0.206	0.0054	0.53	2	KD2 1 snow snow patch	Center of Polygon. wet soil	0.00	-77.58097	163.49527
+paleolake delta (non-water track)	2013-01-07T14:13	SH-1	0.544	183.7	1.133	0.481	0.0078	3.4	2	KD2 2 snow Center of EC footprint	no snow. pebble	0.00	-77.58057	163.49483
+paleolake delta (non-water track)	2013-01-07T14:19	SH-1	0.293	341.1	1.259	0.233	0.0032	0.71	2	KD2 2 snow Center of EC footprint	snow patch. pebble	0.00	-77.58057	163.49483
+paleolake delta (non-water track)	2013-01-07T14:26	SH-1	0.521	192.0	1.359	0.383	0.0071	4.14	2	KD2 3 snow	betw Cent & Edge. no snow. Center of Polygon	0.00	-77.58022	163.49315
+paleolake delta (non-water track)	2013-01-07T14:31	SH-1	0.298	335.9	1.183	0.252	0.0031	0.68	2	KD2 3 snow	betw Cent & Edge. snow. Center of Polygon	0.00	-77.58022	163.49315
+paleolake delta (non-water track)	2013-01-07T14:39	SH-1	0.300	333.0	1.397	0.215	0.0022	0.67	2	KD 2 1 TC	snow	0.00	-77.58081	163.49252
+paleolake delta (non-water track)	2013-01-07T14:44	SH-1	0.355	281.3	1.307	0.272	0.0021	3.58	2	KD 2 1 TC	no snow	0.00	-77.58081	163.49252
+paleolake delta (non-water track)	2013-01-07T14:51	SH-1	0.250	399.5	1.244	0.201	0.0018	0.58	2	KD2 4 Hobos	snow	0.00	-77.58073	163.49237
+paleolake delta (non-water track)	2013-01-07T14:59	SH-1	0.434	230.4	1.261	0.344	0.0039	3.63	2	KD2 4 Hobos	no snow	0.00	-77.58073	163.49237
+water track	2013-01-07T16:19	SH-1	1.221	81.9	2.468	0.495	0.0039	4.38	2	KD2 2 snow on-track	edge of WT	0.00	-77.57647	163.48431
+water track	2013-01-07T16:25	SH-1	1.220	82.0	2.486	0.491	0.0043	4.74	2	KD2 3 snow on-track	Center of WT. seepage	0.00	-77.57639	163.48413
+water track	2013-01-07T16:30	SH-1	1.157	86.5	1.961	0.590	0.0056	5.08	2	KD2 4 snow on-track	edge of WT. close to BFR	0.00	-77.57632	163.48378

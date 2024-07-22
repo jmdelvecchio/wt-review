@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>0</serialVersion>
+    <identifier>urn:uuid:9041bf2a-9edc-47ca-b0e0-f04dd2e55429</identifier>
+    <formatId>text/csv</formatId>
+    <size>439535</size>
+    <checksum algorithm="MD5">9d04fa67558f49ed17b195c33809a462</checksum>
+    <submitter>http://orcid.org/0000-0003-2873-3647</submitter>
+    <rightsHolder>http://orcid.org/0000-0003-2873-3647</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>CN=arctic-data-admins,DC=dataone,DC=org</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="false" numberReplicas="0"/>
+    <obsoletes>urn:uuid:22b335fb-6366-4051-a268-b20ce52ac86c</obsoletes>
+    <archived>false</archived>
+    <dateUploaded>2021-05-13T20:49:37.009+00:00</dateUploaded>
+    <dateSysMetadataModified>2021-07-26T19:11:24.765+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:ARCTIC</originMemberNode>
+    <authoritativeMemberNode>urn:node:ARCTIC</authoritativeMemberNode>
+    <fileName>uk1994_2010td.csv</fileName>
+</ns3:systemMetadata>

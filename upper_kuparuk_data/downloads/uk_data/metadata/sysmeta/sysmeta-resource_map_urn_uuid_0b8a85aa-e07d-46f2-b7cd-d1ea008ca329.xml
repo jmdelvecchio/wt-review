@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:systemMetadata xmlns:ns2="http://ns.dataone.org/service/types/v1" xmlns:ns3="http://ns.dataone.org/service/types/v2.0">
+    <serialVersion>1</serialVersion>
+    <identifier>resource_map_urn:uuid:0b8a85aa-e07d-46f2-b7cd-d1ea008ca329</identifier>
+    <formatId>http://www.openarchives.org/ore/terms</formatId>
+    <size>7787</size>
+    <checksum algorithm="MD5">4d80401bdd674aafbcaa94e91dccded8</checksum>
+    <submitter>http://orcid.org/0000-0003-2873-3647</submitter>
+    <rightsHolder>http://orcid.org/0000-0003-2873-3647</rightsHolder>
+    <accessPolicy>
+        <allow>
+            <subject>public</subject>
+            <permission>read</permission>
+        </allow>
+        <allow>
+            <subject>CN=arctic-data-admins,DC=dataone,DC=org</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+        <allow>
+            <subject>http://orcid.org/0000-0003-2873-3647</subject>
+            <permission>read</permission>
+            <permission>write</permission>
+            <permission>changePermission</permission>
+        </allow>
+    </accessPolicy>
+    <replicationPolicy replicationAllowed="false" numberReplicas="0"/>
+    <obsoletes>resource_map_urn:uuid:9750fb59-0084-47df-800e-83201509d5e0</obsoletes>
+    <obsoletedBy>resource_map_urn:uuid:80727424-f14b-4384-937d-84435e60a6e9</obsoletedBy>
+    <archived>false</archived>
+    <dateUploaded>2021-07-29T19:38:38.300+00:00</dateUploaded>
+    <dateSysMetadataModified>2021-08-05T23:10:48.816+00:00</dateSysMetadataModified>
+    <originMemberNode>urn:node:ARCTIC</originMemberNode>
+    <authoritativeMemberNode>urn:node:ARCTIC</authoritativeMemberNode>
+    <fileName>resource_map_urn_uuid_0b8a85aa_e07d_46f2_b7cd_d1ea008ca329.rdf.xml</fileName>
+</ns3:systemMetadata>

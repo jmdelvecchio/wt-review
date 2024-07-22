@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?><eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="urn:uuid:770d3ada-78f5-4356-abfa-59fe604a7710" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="https://tools.ietf.org/html/rfc4122">
+  <dataset><alternateIdentifier>https://ine.uaf.edu/werc/</alternateIdentifier><title>Updated Meteorological, Radiation, and Soil Temperature Data, Kuparuk River and Nearby Watersheds: Upper Kuparuk (UK) station, 1994-2018.</title><creator id="6078992999384157">
+      <individualName><givenName>Doug</givenName><surName>Kane</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>P.O. Box 755860</deliveryPoint>
+        
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775</postalCode>
+        <country>US</country>
+      </address><phone phonetype="voice">(907) 474 - 7808</phone><electronicMailAddress>dlkane@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      
+    </creator><creator id="2186673090208590">
+      <individualName><givenName>Larry</givenName><surName>Hinzman</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>PO Box 755860</deliveryPoint><deliveryPoint>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center</deliveryPoint>
+        
+        
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775</postalCode>
+        <country>US</country>
+      </address><phone phonetype="voice">9074742713</phone><electronicMailAddress>ekyoucha@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      
+    </creator><creator id="1005640893276730">
+      <individualName><givenName>Sveta</givenName><surName>Stuefer</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>PO Box 755860</deliveryPoint><deliveryPoint>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center</deliveryPoint>
+        
+        
+        <city>Fairbanks</city>
+        <administrativeArea>ak</administrativeArea>
+        <postalCode>99775</postalCode>
+        <country>US</country>
+      </address><electronicMailAddress>sveta.stuefer@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-0740-8335</userId>
+    </creator><creator id="2595847897669649">
+      <individualName><givenName>Chris</givenName><surName>Arp</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>PO Box 755860</deliveryPoint><deliveryPoint>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center</deliveryPoint>
+        
+        
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775</postalCode>
+        <country>US</country>
+      </address><electronicMailAddress>carp@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-6485-6225</userId>
+    </creator><associatedParty id="5238621237117564">
+      <individualName><givenName>Emily</givenName><surName>Youcha</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center</deliveryPoint>
+        
+      </address><electronicMailAddress>ekyoucha@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-2873-3647</userId>
+      <role>custodianSteward</role>
+    </associatedParty><pubDate>2021-04-01</pubDate>
+    
+    
+    
+    
+    
+    
+    
+    
+    <abstract><para>The data files in this data set contain climate information from sites on the North Slope of Alaska in or near the Kuparuk River basin. The data was collected for a hydrologic study of rivers in the North Slope region between 1985-present.  Hydro-meteorological stations were established at various locations throughout the Kuparuk, but also in the Putuligayuk and Sagavanirktok watersheds. The variables collected at most stations were air temperature, humidity, wind speed and direction, soil temperature, snow temperature, precipitation, snow depth, and radiation. In the headwaters of the Kuparuk River, the Upper Kuparuk (UK) station operated from 1994 to present.  This updated dataset contains all data collected through 2018.</para><para>IMPORTANT NOTE: Updates and corrections were made to the original datasets by the investigators, and all of the previously published data files should be replaced with this updated dataset.  The following corrections were made to the datasets originally published in 2008 and 2010 (data collected 1985-2008):  1) data from annual .csv files were merged into one .csv file (for each station) containing all years of data, 2) appended new data collected from 2008 to 2018 into the .csv file 3) standardized file headers, 4) standardized variable names, units, and sensor installation height above ground surface 5) reviewed all data for quality assurance and added qualifiers to erroneous data, 6) added a data qualifier to wind data during periods of extensive riming on wind sensors, 7) added a qualifier when air temperatures are below -39 degrees Celsius (C) (minimum reporting temperature of some air temperature sensors), and 8) removed duplicative data and fixed timestamp issues.</para><para>See https://arcticdata.io/catalog/view/urn%3Auuid%3Ad5fa4cfa-b84b-4970-926a-8dd10b418e6d for additional climate data from other nearby stations in the project.</para></abstract><keywordSet><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; PRECIPITATION</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC TEMPERATURE &#x3E; SURFACE TEMPERATURE &#x3E; AIR TEMPERATURE</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC RADIATION &#x3E; NET RADIATION</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC WINDS &#x3E; SURFACE WINDS &#x3E; WIND SPEED/WIND DIRECTION</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC WATER VAPOR &#x3E; HUMIDITY</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC RADIATION &#x3E; LONGWAVE RADIATION</keyword><keyword>EARTH SCIENCE &#x3E; ATMOSPHERE &#x3E; ATMOSPHERIC RADIATION &#x3E; SHORTWAVE RADIATION</keyword><keyword>EARTH SCIENCE &#x3E; TERRESTRIAL HYDROSPHERE &#x3E; SNOW/ICE &#x3E; SNOW DEPTH</keyword><keyword>EARTH SCIENCE &#x3E; CRYOSPHERE &#x3E; FROZEN GROUND &#x3E; SOIL TEMPERATURE</keyword><keywordThesaurus>NASA Global Change Master Directory (GCMD)</keywordThesaurus></keywordSet>
+    
+    <intellectualRights><para>This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.</para></intellectualRights>
+    <distribution>
+      <online>
+        <url function="information">http://arcticdata.io/catalog/view/urn:uuid:31a93c94-fab0-4d6a-80a9-31219a4e98b3</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>North slope of Alaska, Kuparuk River and adjacent watersheds:  Upper Kuparuk</geographicDescription>
+        <boundingCoordinates><westBoundingCoordinate>-151</westBoundingCoordinate><eastBoundingCoordinate>-147</eastBoundingCoordinate><northBoundingCoordinate>71</northBoundingCoordinate><southBoundingCoordinate>68</southBoundingCoordinate></boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage><rangeOfDates><beginDate><calendarDate>1994</calendarDate></beginDate><endDate><calendarDate>2018</calendarDate></endDate></rangeOfDates></temporalCoverage>
+    </coverage>
+    
+    
+    
+    
+    
+    
+    
+    
+  <contact id="5542317566813279">
+      <individualName><givenName>Emily</givenName><surName>Youcha</surName></individualName><organizationName>University of Alaska Fairbanks</organizationName>
+      
+      <address><deliveryPoint>PO Box 755860</deliveryPoint><deliveryPoint>University of Alaska Fairbanks Institute of Northern Engineering Water and Environmental Research Center</deliveryPoint>
+        
+        
+        <city>Fairbanks</city>
+        <administrativeArea>AK</administrativeArea>
+        <postalCode>99775</postalCode>
+        <country>US</country>
+      </address><electronicMailAddress>ekyoucha@alaska.edu</electronicMailAddress><onlineUrl>https://ine.uaf.edu/werc/</onlineUrl>
+      
+      
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-2873-3647</userId>
+    </contact><publisher id="1946005343314054"><organizationName>NSF Arctic Data Center</organizationName><electronicMailAddress>support@arcticdata.io</electronicMailAddress><onlineUrl>http://arcticdata.io</onlineUrl>
+      
+      
+      
+      <userId directory="unknown">Q77285095</userId>
+    </publisher><methods>
+      <methodStep>
+        <description><para>Campbell Scientific 21X, CR10X, and CR1000 data loggers were used to record and process data at all sites over the years.  Data recorded on the data loggers were compared to measured conditions to check the sensor calibrations and the data logger during site visits.  Cables connecting the sensors to the data logger were shielded to minimize induced voltage caused by auroral activity.  Heavy flexible metal conduit was used at some sites to discourage wildlife. While many of our stations were 10 m towers with sensors at multiple heights above ground, our mini-met stations consisted of a 3 m tripod and only collected basic variables such as air temperature, wind speed and direction, and rainfall. The Upper Kuparuk (UK) station, a 10 m tower located in the headwaters of the Kuparuk, operated from 1994 to present.  The following paragraphs describe the sensors used at all our sites during the duration of the research project (1985 to 2018).</para><para>Wind speed was measured using a Weathertronics anemometer at Imnavait A site from 1985 through 1992.  Met One model 014A wind speed sensors were employed at Imnavait B site, Sagwon, Franklin Bluffs and Lower Kuparuk sites.   Beginning in 2006 the all the 10 meter wind speed and direction sensors and most 3 meter wind sensors were replaced with RM Young aero-vanes.  Wind direction was measured with a model 024a Met One Wind Direction Sensor at all sites and later they were replaced with RM Young aerovanes (05103).  There are problems of note at these remote sites pertaining to wind speed and direction measurements.  The most significant off these are rime ice and freezing precipitation that can at best alter the aerodynamics of these sensors and stop them completely.  Prolonged periods of calm with wind speed reporting at the threshold velocity of 0.447 m/s and/or constant wind direction are very rare at these sites and should be considered indicators of these conditions.  However, we cannot be sure that a calm period did not occur since the sites were unmanned.  Rime ice and freezing precipitation can occur during any season but are most likely during the fall, late winter and early spring.  Wind speed and direction data with suspected periods of wind sensor icing/riming are qualified with a code of 6999.</para><para>Air temperature and relative humidity were initially measured using a Campbell Scientific Model 207 Temperature and Relative Humidity Probe. The relative humidity component utilizes a Phys-Chemical Research Corporation PCRC humidity transducer.  A Campbell Scientific model 105T type T thermocouple was also used at the Imnavait B site in the early years of the study.  In 1995 HMP35C or HMP45C Temperature Relative Humidity Sensors were added to each main site at the 10 meter height.  In 2000 the Model 207 Probe sensors were replaced with CSI Model 500 sensors.  In 2004 all of the CSI Model 500 T/RH sensors were replaced due to corrosion problems in the sensor lead. HMP35C or HMP45C sensors were used.  In 2015, several HMP45C air temperature / relative humidity sensors were replaced with HMP155 or Rotronic HC2S3 air temperature / relative humidity sensors.  All air temperature sensors are installed with a radiation shield.  One limitation of some of the HMP35/45C sensors is they may not report below -39 degrees C. In these cases, we either report air temperature using a backup YSI thermistor or any data below -39F is qualified as "missing".</para><para>Soil temperatures were measured at all sites initially using Alpha model 13A5001-C3 and later YSI model 44007 thermistors and 100 K ohm precision resistors. In 2008, soil temperature sensors at Imnavait B site and Upper Kuparuk were replaced using YSI 44033 thermistors.</para><para>Snow depth was measured using SR50 or SR50(a) sensors and typically mounted on a separate stand to avoid drifting that may occur around the main tower.  Summer rainfall was measured with Texas Electronics tipping bucket raingauges (TE525) and each gauge is shielded with an altershield to reduce undercatch.</para><para>Barometric pressure is measured at several stations using Vaisala CS106 or Setra CS100 sensors.</para><para>Net absorbed radiation was measured with a Swissteco model S-1 Net Radiometer at all sites from 1985/1986 through 1992, except the Lower Kuparuk site where a REBS Q6 Net Radiometer was used.  In 1993, all Swissteco net radiometers were replace with REBS Q^ Net Radiometers.  In 1998 all of the REBS Q6 net radiometers were upgraded to REBS Q7.1 net radiometers at all sites measuring net radiation.  In 2007, several net radiometers were replaced with Kipp and Zonen NRLite.  Net radiation components, total hemispheric terrestrial and atmospheric radiation, were also measured using a Weathertronics Pyrradiometer at the Imnavait A site.  This sensor produces two outputs, the total incoming and total emitted or reflected radiation, the difference being the net absorbed radiation.  Incident and reflected shortwave radiation were measured with a Weathertronics Albedometer at Imnavait A site.  Incident shortwave radiation was also measured using an Eppley model PSP Precision Spectral Pyranometer at Imnavait A site. This type of instrument was also used to measure incident and reflected shortwave radiation at Franklin Bluffs, Sagwon Hills, and Lower Kuparuk, and later at the Upper Kuparuk, and West Kuparuk sites.  An Eppley Spectral Precision Pyranometer fitted with an RG8 dark red filter was used to measure photosynthetically active radiation between 0.700 and 2.800 microns at the Imnavait A site.  Eppley model 8-48 Black and White Pyranometers were used to measure incident and reflected solar radiation at the Imnavait B site.  Eppley model PIR Precision Infrared Pyrgeometers were used to measure longwave radiation, both terrestrial and atmospheric, at all sites.  In 2015, a Hukseflux NR01 was used to measure short wave and long wave radiation at a new station (Putuligayuk Basin Met).  Also in 2015, Eppley PSP sensors were used to measure shortwave radiation and Eppley PIR sensors were used to measure longwave radiation at the Imnavait B site and Upper Kuparuk meteorological stations.</para></description>
+      </methodStep>
+      <methodStep>
+        <description>
+          <para>Datasets are reviewed for quality assurance and erroneous or missing data are not included (coded as 7777-not collected or 6999-bad/missing).</para>
+        </description>
+      </methodStep>
+      <sampling><studyExtent><description><para>On Alaska's North Slope, starting in 1985, meteorological stations at various research sites in the Kuparuk Basin were located in a north-south transect along the Dalton Highway.  The southernmost site was established in the foothills of the Philip Smith Mountains at the headwaters of the Kuparuk River, at Imnavait Creek.  The most intense research and data collection have occurred at this location.  Instrumentation for the collection of meteorologic, hydrologic and soil conditions was installed in 1984 and data collection began in the spring of 1985.  In the Imnavait watershed there are two main sites where data collection has taken place.  One site, Imnavait A (IA), is located on a 10% west-facing slope, the other site, Imnavait B (IB) is located on a ridge top on the east side of Imnavait Creek Watershed.  Meteorologic and soil information were measured at both locations.  In 1986, a second site was established near the Sagwon Hills (SH), approximately  100 km south of Prudhoe Bay.   Instrumentation for measuring soil temperatures and meteorologic conditions as installed near the top of a 10% north-facing slope.  Data have been collected from 1987 to 2013 at this site.  Also in 1986, a site near Franklin Bluffs (FB) was established on the coastal plain 50 km south of Prudhoe Bay.  This site is located in the relatively flat area of the Sagavanirktok River flood plain at an elevation of 80 m. Data have been collected from 1987 to present at this site.  The northernmost site, Lower Kuparuk (LK),  was established 21 km west of Deadhorse on the banks of the Kuparuk River in an area with little topographic relief (elevation of 50 m).  This site was established in April of 1992 and removed in 1995.  In 1993, the hydrologic monitoring network was expanded to include the Upper Kuparuk River and included establishing 6 additional meteorological stations within the Upper Kuparuk basin.  A 10 m tower was installed at Upper Kuparuk Met (UK), and 3 m tripods at North Headwater (NH), East Headwater (EH), West Headwater (WH), and Green Cabin Lake (GL) and Upper Headwater (UH).  Most of the stations in the study were removed in 2010 except Green Cabin Lake and Upper Kuparuk Met.  WERC has one monitoring site, West Kuparuk (WK) met, established in 1994, on the western margin of the Kuparuk Basin, approximately 50 km west of Sagwon Hills. It is a 10 m tower.  This site was removed in 2010.   The data archived here represents a continuous record of the Coastal Plain research sites since May 1994. Additional monitoring stations were also established for collection of Coastal Plain data: Betty Pingo (BM) and West Dock (WD). These sites were removed in 2010 and 2011.  In 2015, two new meteorological sites were established:  one in the Putuligayuk River basin (PB) near Deadhorse and Dalton Highway MP405 (operated 2015-2018), and one at Roche Moutonnee Creek (RMC) which is located in the headwaters of the Sagavanirktok River (operated 2015-2018).   Also in 2015, additional funding was obtained to continue monitoring at several remaining meteorological stations:  Upper Kuparuk, Imnavait B, Green Cabin Lake, and Franklin Bluffs. These 4 stations are the only remaining sites from the original observation program (as of March 2021).</para></description></studyExtent><samplingDescription>
+          <para>No sampling description provided.</para>
+        </samplingDescription></sampling>
+    </methods><project>
+      <title>Long-term Measurements and Observations for the International Arctic Research Community on the Kuparuk River Basin, Alaska</title>
+      <title>Hydrologic Linkages with Arctic Freshwater and Terrestrial  Systems</title>
+      <title>Temporal Variation of Hydrology in the Alaskan Arctic</title>
+      <personnel>
+        <individualName>
+          <givenName>Carl S</givenName>
+          <surName>Benson</surName>
+        </individualName>
+        <role>coPrincipalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Larry D</givenName>
+          <surName>Hinzman</surName>
+        </individualName>
+        <role>coPrincipalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Douglas J</givenName>
+          <surName>Goering</surName>
+        </individualName>
+        <role>coPrincipalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>James P</givenName>
+          <surName>McNamara</surName>
+        </individualName>
+        <role>coPrincipalInvestigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Douglas L</givenName>
+          <surName>Kane</surName>
+        </individualName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <award>
+        <funderName>National Science Foundation</funderName>
+        <funderIdentifier>https://doi.org/10.13039/100000001</funderIdentifier>
+        <awardNumber>0335941</awardNumber>
+        <title>Long-term Measurements and Observations for the International Arctic Research Community on the Kuparuk River Basin, Alaska</title>
+        <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0335941</awardUrl>
+      </award>
+      <award>
+        <funderName>National Science Foundation</funderName>
+        <funderIdentifier>https://doi.org/10.13039/100000001</funderIdentifier>
+        <awardNumber>9214927</awardNumber>
+        <title>Hydrologic Linkages with Arctic Freshwater and Terrestrial  Systems</title>
+        <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=9214927</awardUrl>
+      </award>
+      <award>
+        <funderName>National Science Foundation</funderName>
+        <funderIdentifier>https://doi.org/10.13039/100000001</funderIdentifier>
+        <awardNumber>9318535</awardNumber>
+        <title>Hydrologic Linkages with Arctic Freshwater and Terrestrial  Systems</title>
+        <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=9318535</awardUrl>
+      </award>
+      <award>
+        <funderName>National Science Foundation</funderName>
+        <funderIdentifier>https://doi.org/10.13039/100000001</funderIdentifier>
+        <awardNumber>9814984</awardNumber>
+        <title>Temporal Variation of Hydrology in the Alaskan Arctic</title>
+        <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=9814984</awardUrl>
+      </award>
+      <award>
+        <funderName>Alaska Department of Transportation and Public Facilities</funderName>
+        <title>Updated Meteorological, Radiation, and Soil Temperature Data, Kuparuk River and Nearby Watersheds, 1985-2018.</title>
+      </award>
+      <award>
+        <funderName>U.S. Fish and Wildlife Service</funderName>
+        <awardNumber>F10AC00756</awardNumber>
+        <title>Updated Meteorological, Radiation, and Soil Temperature Data, Kuparuk River and Nearby Watersheds, 1985-2018.</title>
+      </award>
+      <award>
+        <funderName>U.S. Fish and Wildlife Service</funderName>
+        <awardNumber>F12AC00513</awardNumber>
+        <title>Updated Meteorological, Radiation, and Soil Temperature Data, Kuparuk River and Nearby Watersheds, 1985-2018.</title>
+      </award>
+      <award>
+        <funderName>U.S. Fish and Wildlife Service</funderName>
+        <awardNumber>F15AC00347</awardNumber>
+        <title>Updated Meteorological, Radiation, and Soil Temperature Data, Kuparuk River and Nearby Watersheds, 1985-2018.</title>
+      </award>
+    </project><dataTable id="urn-uuid-9041bf2a-9edc-47ca-b0e0-f04dd2e55429">
+      <entityName>uk1994-2010td.csv</entityName>
+      <entityDescription>Daily soil temperature at Upper Kuparuk (UK) station, 1994 to 2010.</entityDescription>
+      <physical>
+        <objectName>uk1994_2010td_30mar2021.csv</objectName>
+        <size unit="bytes">439538</size>
+        <authentication method="MD5">b245638ac7455757e13d1fbfb59db740</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>34</numHeaderLines>
+            <recordDelimiter>
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:22b335fb-6366-4051-a268-b20ce52ac86c</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList id="gaGCpZmlCsvQU9TAeVQbH37sZTrEva">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <attribute id="urn-uuid-1fdb7f05-d352-459c-9293-4f10dbf2e112">
+          <attributeName>Date Time (AST)</attributeName><attributeLabel>Date and Time (Alaska Standard Time)</attributeLabel>
+          
+          <attributeDefinition>Date and time in Alaska Standard Time (AST)</attributeDefinition>
+          <measurementScale>
+            
+          <dateTime>
+              <formatString>MM/DD/YYYY hh:mm</formatString>
+            </dateTime></measurementScale>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="date and time of measurement"> http://purl.dataone.org/odo/ECSO_00002043</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-51793136-814c-486b-9e35-7298245d51be">
+          <attributeName>5 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 5 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 5 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-4957ab06-2d44-4696-b991-f942c2b7e03b">
+          <attributeName>10 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 10 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 10 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-b5b6d64c-3d66-4419-bd4e-78c7cd86841d">
+          <attributeName>15 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 15 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 15 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-3507282d-d32b-4fae-a150-d62160468de2">
+          <attributeName>20 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 20 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 20 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-caaf637a-2051-45f0-8eea-e07b58217c0e">
+          <attributeName>25 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 25 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 25 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-613630b0-30db-4cae-aa35-d6fa7effdaec">
+          <attributeName>30 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 30 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 30 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-2e4bccd0-6543-4ab6-b75c-76c20fb7396d">
+          <attributeName>35 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 35 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 35 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-58b3056b-2a6d-488d-91a0-15dd9964d8a0">
+          <attributeName>40 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 40 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 40 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-065e2326-7984-4c06-b778-014d39ce6c70">
+          <attributeName>45 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 45 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 45 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-e1bfbd20-7c52-424c-acf3-f0724e17a3f4">
+          <attributeName>50 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 50 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 50 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-e46107c3-9cf4-453b-ae3a-decec1e4b675">
+          <attributeName>55 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 55 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 55 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-985d3c68-ea02-40c9-82fa-8d1781dc7598">
+          <attributeName>60 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 60 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 60 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute></attributeList>
+    </dataTable><dataTable id="urn-uuid-f81f126e-e583-4282-b974-7822053204c0">
+      <entityName>uk2003-2011th.csv</entityName>
+      <entityDescription>Hourly soil temperature at Upper Kuparuk (UK) station, 2003 to 2012.</entityDescription>
+      <physical>
+        <objectName>uk2003_2012th_30mar2021.csv</objectName>
+        <size unit="bytes">5885869</size>
+        <authentication method="MD5">9176a6014a2201905747edfb61ed3d5b</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>34</numHeaderLines>
+            <recordDelimiter>
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:f277d3cc-ed65-4171-aaa5-8145c75ac7dd</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList id="uk_march2021_data">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <attribute id="2EMvTO6yAm1D5xV3IgMXBBDMZr5yqa">
+          <attributeName>Date Time (AST)</attributeName><attributeLabel>Date and Time (Alaska Standard Time)</attributeLabel>
+          
+          <attributeDefinition>Date and time in Alaska Standard Time (AST)</attributeDefinition>
+          <measurementScale>
+            
+          <dateTime>
+              <formatString>MM/DD/YYYY hh:mm</formatString>
+            </dateTime></measurementScale>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="date and time of measurement"> http://purl.dataone.org/odo/ECSO_00002043</valueURI>
+          </annotation>
+        </attribute><attribute id="8FJOUCqiaOVRy7leTwhnwX2wdTJlRf">
+          <attributeName>5 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 5 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 5 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="ewkpRVBcJFBNWMv9lhtExRP0dTVkCp">
+          <attributeName>10 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 10 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 10 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="aAG9wmwiD3wkfPNpFFUAc6LizvwTAv">
+          <attributeName>15 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 15 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 15 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="c8RqITt0DEJT1I9T8Dw7xMG2ysfbdm">
+          <attributeName>20 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 20 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 20 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="He5SeBlZT2XOAod7wUl4IOqQRnuTTE">
+          <attributeName>25 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 25 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 25 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="DzvlMolCiNK1gfOKwnUdRySydahngD">
+          <attributeName>30 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 30 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 30 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="i1xT0NWsbFbou02WMwrVGRbsAie8mN">
+          <attributeName>35 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 35 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 35 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="m1lIbr0X5hz4VT4d5Dqhx2gaCef1CO">
+          <attributeName>40 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 40 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 40 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="D7IgLrXezsC2rIcSLTUAECHZJnXkHD">
+          <attributeName>45 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 45 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 45 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="v16tVTEJVET2gJtFVyvBs5ePowh6sa">
+          <attributeName>50 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 50 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 50 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="nye5G9QykXn7neTl0vJmFuhZgCHWxm">
+          <attributeName>55 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 55 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 55 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute><attribute id="vLcckrILIfSxDnbiBtEXBMNMLsAVdT">
+          <attributeName>60 cm depth soil temperature (degrees C)</attributeName><attributeLabel>Soil temperature at 60 cm below ground surface</attributeLabel>
+          
+          <attributeDefinition>Soil temperature at 60 cm below ground surface in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Soil Temperature"> http://purl.dataone.org/odo/ECSO_00001230</valueURI>
+          </annotation>
+        </attribute></attributeList>
+    </dataTable><dataTable id="urn-uuid-151b0a60-14a6-4598-a035-006c9cad036c" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>uk1994-2018m.csv</entityName>
+      <entityDescription>Meteorological data at Upper Kuparuk (UK) station, 1994 to 2018.</entityDescription>
+      <physical>
+        <objectName>uk1994_2018m_31Jan2021.csv</objectName>
+        <size unit="bytes">20471289</size>
+        <authentication method="MD5">90adc039e0ab232d59db7edc62156c6b</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>34</numHeaderLines>
+            <recordDelimiter>
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:dea05f8b-8015-4800-bbac-c6b42e82ff8d</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList id="498fTz3cd6TggAhkFOT1K8TQSJBUkm">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <attribute id="urn-uuid-f2bf6f4d-407c-452e-9340-9d6e1797c196">
+          <attributeName>1 m Air Temperature (deg C)</attributeName><attributeLabel>Air temperature, 1 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Air temperature in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Temperature"> http://purl.dataone.org/odo/ECSO_00001225</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-32de4413-58e2-4afd-a03e-9a1a29f18662">
+          <attributeName>1.5 m Air Temperature (deg C)</attributeName><attributeLabel>Air temperature, 1.5 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Air temperature in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Temperature"> http://purl.dataone.org/odo/ECSO_00001225</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-e5141c4d-f2c4-4c07-927a-4e59923a56a8">
+          <attributeName>3 m Air Temperature (deg C)</attributeName><attributeLabel>Air temperature, 3 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Air temperature in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Temperature"> http://purl.dataone.org/odo/ECSO_00001225</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-5a04305e-7baa-4f5e-a62f-673e273caf6b">
+          <attributeName>10 m Air Temperature (deg C)</attributeName><attributeLabel>Air temperature, 10 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Air temperature in degrees Celsius</attributeDefinition>
+          <measurementScale>
+            
+          <interval><unit><standardUnit>celsius</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </interval></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Temperature"> http://purl.dataone.org/odo/ECSO_00001225</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-ef4d3c47-8948-4eda-a5ba-be09d3514037">
+          <attributeName>1 m Relative Humidity (%)</attributeName><attributeLabel>Relative humidity, 1 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Relative humidity in percent.</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>percent</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="relative humidity"> http://purl.dataone.org/odo/ECSO_00001545</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-21b24397-2c91-4ef8-9e7b-e3c45e5675af">
+          <attributeName>1.5 m Relative Humidity (%)</attributeName><attributeLabel>Relative humidity, 1.5 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Relative humidity in percent.</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>percent</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="relative humidity"> http://purl.dataone.org/odo/ECSO_00001545</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-ccf92e10-fa01-4f88-b5fa-59ed97b3acf1">
+          <attributeName>3 m Relative Humidity (%)</attributeName><attributeLabel>Relative humidity, 3 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Relative humidity in percent.</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>percent</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="relative humidity"> http://purl.dataone.org/odo/ECSO_00001545</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-6d586cb9-4e33-4a2f-800a-a65c992c4fb9">
+          <attributeName>10 m Relative Humidity (%)</attributeName><attributeLabel>Relative humidity, 10 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Relative humidity in percent.</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>percent</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="relative humidity"> http://purl.dataone.org/odo/ECSO_00001545</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-9e9946bd-daec-4e2e-a330-37f21d69e340">
+          <attributeName>1 m wind speed (m/s)</attributeName><attributeLabel>Wind speed, 1 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Wind speed in meters per second</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>meterPerSecond</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Wind Speed"> http://purl.dataone.org/odo/ECSO_00001233</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-c42b59a2-a0de-41f3-99a3-dddf7bb68a79">
+          <attributeName>2 m wind speed (m/s)</attributeName><attributeLabel>Wind speed, 2 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Wind speed in meters per second</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>meterPerSecond</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Wind Speed"> http://purl.dataone.org/odo/ECSO_00001233</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-939eb564-042c-4f18-9fa3-29b6186101ea">
+          <attributeName>3 m wind speed (m/s)</attributeName><attributeLabel>Wind speed, 3 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Wind speed in meters per second</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>meterPerSecond</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Wind Speed"> http://purl.dataone.org/odo/ECSO_00001233</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-227e8919-59b0-4717-953a-3d76c5b94bec">
+          <attributeName>10 m wind speed (m/s)</attributeName><attributeLabel>Wind speed, 10 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Wind speed in meters per second</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>meterPerSecond</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Wind Speed"> http://purl.dataone.org/odo/ECSO_00001233</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-3d408bb1-b8e2-4600-8fc6-e9848e7b9dba">
+          <attributeName>10 m Wind Direction  (degrees)</attributeName><attributeLabel>Wind direction, 10 meter above ground surface</attributeLabel>
+          
+          <attributeDefinition>Wind direction in degrees</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>degree</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="wind direction measurement type"> http://purl.dataone.org/odo/ECSO_00001712</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-759fcd9d-2cad-41cd-a15f-87396ea7a224">
+          <attributeName>Rainfall (mm)</attributeName><attributeLabel>Rainfall</attributeLabel>
+          
+          <attributeDefinition>Rainfall in mm, measured with TE525 in altershield</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>millimeter</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="rainfall height"> http://purl.dataone.org/odo/ECSO_00001730</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-bff6f14e-c6d4-4457-9cf5-2ecc643b391f">
+          <attributeName>Station Pressure (mb)</attributeName><attributeLabel>Station pressure</attributeLabel>
+          
+          <attributeDefinition>Station pressure in millibar</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>millibar</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Air Pressure"> http://purl.dataone.org/odo/ECSO_00001186</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-9b9bae0d-15a4-4768-8a54-727b9e23a5d0">
+          <attributeName>Date Time (AST)</attributeName><attributeLabel>Date and Time</attributeLabel>
+          
+          <attributeDefinition>Date and time in Alaska Standard Time</attributeDefinition>
+          <measurementScale>
+            
+          <dateTime>
+              <formatString>MM/DD/YYYY hh:mm</formatString>
+            </dateTime></measurementScale>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="date and time of measurement"> http://purl.dataone.org/odo/ECSO_00002043</valueURI>
+          </annotation>
+        </attribute><attribute id="to3TmMGSHK4TyR9TVPHSB02RK5wg37">
+          <attributeName>Snow depth (cm)</attributeName><attributeLabel>Snow Depth</attributeLabel>
+          
+          <attributeDefinition>Snow depth in centimeters, measured with SR50</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>centimeter</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="Snow Depth"> http://purl.dataone.org/odo/ECSO_00001205</valueURI>
+          </annotation>
+        </attribute></attributeList>
+    </dataTable><dataTable id="urn-uuid-6875fded-f2d8-4208-8888-06099dde098e" system="https://tools.ietf.org/html/rfc4122">
+      <entityName>uk1994-2018r.csv</entityName>
+      <entityDescription>Radiation data at Upper Kuparuk (UK) meteorological station, 1994 to 2018.</entityDescription>
+      <physical>
+        <objectName>uk1994_2018r_21feb2021.csv</objectName>
+        <size unit="bytes">10503635</size>
+        <authentication method="MD5">35d781f3995c199c59daea9852ef0c44</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>34</numHeaderLines>
+            <recordDelimiter>
+</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url function="download">https://cn.dataone.org/cn/v2/resolve/urn:uuid:48718592-17af-4614-a55c-37dc72b2e271</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList id="D3zJf3vKlLIr1ArFk0Con5reFGTTae">
+        
+        
+        
+        
+        
+        
+        
+        
+      <attribute id="urn-uuid-5f4b972e-492d-4e36-8abd-300460d31b28">
+          <attributeName>Date Time (AST)</attributeName><attributeLabel>Date and Time</attributeLabel>
+          
+          <attributeDefinition>Date and time in Alaska Standard Time (AST)</attributeDefinition>
+          <measurementScale>
+            
+          <dateTime>
+              <formatString>MM/DD/YYYY hh:mm</formatString>
+            </dateTime></measurementScale>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="date and time of measurement"> http://purl.dataone.org/odo/ECSO_00002043</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-690edf04-519a-410b-bcec-031869565477">
+          <attributeName>Incident shortwave radiation (W/m2)</attributeName><attributeLabel>Incident shortwave radiation</attributeLabel>
+          
+          <attributeDefinition>Incident shortwave radiation in watts per meter squared, measured with Eppley PSP.</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="shortwave radiation"> http://purl.dataone.org/odo/ECSO_00002947</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-d2792a1d-7db8-4d89-ba31-0693d92cc102">
+          <attributeName>Reflected shortwave radiation (W/m2)</attributeName><attributeLabel>Reflected shortwave radiation</attributeLabel>
+          
+          <attributeDefinition>Reflected shortwave radiation in watts per meter squared, measured with Weathertronics Albedometer</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="shortwave radiation"> http://purl.dataone.org/odo/ECSO_00002947</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-0d281369-65e9-4ada-90bb-10b3a067a4bb">
+          <attributeName>Atmospheric longwave radiation (W/m2)</attributeName><attributeLabel>Atmospheric longwave radiation</attributeLabel>
+          
+          <attributeDefinition>Atmospheric longwave radiation in watts per meter squared</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="longwave radiation"> http://purl.dataone.org/odo/ECSO_00001600</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-4b4a5c05-06d9-4340-9046-06f0c7f69f53">
+          <attributeName>Terrestrial longwave radiation (W/m2)</attributeName><attributeLabel>Terrestrial longwave radiation</attributeLabel>
+          
+          <attributeDefinition>Terrestrial longwave radiation in watts per meter squared</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="longwave radiation"> http://purl.dataone.org/odo/ECSO_00001600</valueURI>
+          </annotation>
+        </attribute><attribute id="urn-uuid-2803cb61-60c0-46ee-95c0-c0373fa4dfbe">
+          <attributeName>Net radiation (W/m2)</attributeName><attributeLabel>Net radiation</attributeLabel>
+          
+          <attributeDefinition>Net radiation in watts per meter squared</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="net radiation"> http://purl.dataone.org/odo/ECSO_00001950</valueURI>
+          </annotation>
+        </attribute><attribute id="tQk9hN778MatUBXdn2tqniKIeHL4AA">
+          <attributeName>Incident shortwave radiation (W/m2)</attributeName><attributeLabel>Incident shortwave radiation</attributeLabel>
+          
+          <attributeDefinition>Incident shortwave radiation in watts per meter squared, measured with Weathertronics albedometer</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+          <annotation>
+            <propertyURI label="contains measurements of type">http://ecoinformatics.org/oboe/oboe.1.2/oboe-core.owl#containsMeasurementsOfType</propertyURI>
+            <valueURI label="shortwave radiation"> http://purl.dataone.org/odo/ECSO_00002947</valueURI>
+          </annotation>
+        </attribute><attribute id="6PT7CGRnW8CvQQGdbfKXeq8d6DXpP8">
+          <attributeName>Net total hemispheric radiation (W/m2)</attributeName><attributeLabel>Net total hemispheric radiation</attributeLabel>
+          
+          <attributeDefinition>Net total hemispheric radiation in watts per meter squared</attributeDefinition>
+          <measurementScale>
+            
+          <ratio><unit><standardUnit>wattPerMeterSquared</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain>
+              
+              
+            </ratio></measurementScale>
+          <missingValueCode>
+            <code>7777</code>
+            <codeExplanation>data was not collected</codeExplanation>
+          </missingValueCode>
+          <missingValueCode>
+            <code>6999</code>
+            <codeExplanation>bad/missing data</codeExplanation>
+          </missingValueCode>
+        </attribute></attributeList>
+    </dataTable><otherEntity id="urn-uuid-a9be231b-eb51-451d-be0b-d5abd79559fb"><entityName>uk2002_2003sd.csv</entityName><entityDescription>Upper Kuparuk station (UK) daily snow depth, 2002-2003.  Hourly snow depth data is in the met data file (uk1994-2018m.csv).</entityDescription><attributeList><attribute id="VDKbFZNT7y8Bd77MFXscrPmvTgIxue"><attributeName>Date Time (AST)</attributeName><attributeLabel>Date and Time (Alaska Standard Time)</attributeLabel><attributeDefinition>Date and Time in Alaska Standard Time (AST)</attributeDefinition><measurementScale><dateTime><formatString>MM/DD/YYYY hh:mm</formatString></dateTime></measurementScale></attribute><attribute id="22w4u171HQ067VuAUH7CuD4eaI8QWA"><attributeName>Snow Depth (cm)</attributeName><attributeLabel>Daily Snow Depth</attributeLabel><attributeDefinition>Daily snow depth in centimeters, measured with sonic sensor (SR50)</attributeDefinition><measurementScale><ratio><unit><standardUnit>centimeter</standardUnit></unit><numericDomain><numberType>real</numberType></numericDomain></ratio></measurementScale></attribute></attributeList><entityType>application/octet-stream</entityType></otherEntity><otherEntity id="urn-uuid-80cfd0b3-258d-44f8-8b5f-869de10cbe20"><entityName>readme2015_2018.txt</entityName><entityType>text/plain</entityType></otherEntity><otherEntity id="urn-uuid-8d6e3140-0eb1-4b90-9d8e-a1fa68c016a6"><entityName>readme1985_2008.PDF</entityName><entityType>application/pdf</entityType></otherEntity></dataset>
+</eml:eml>

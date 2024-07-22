@@ -1,0 +1,24 @@
+/* DATA DESCRIPTION:
+Citation:	Linhardt, Tobias; Levy, Joseph S; Thomas, Christoph K (2019): Surface energy and mass exchange of a water track and dry soils via eddy-covariance in the summer season 2012-2013 in a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica. PANGAEA, https://doi.org/10.1594/PANGAEA.904286, 
+	Supplement to: Linhardt, T et al. (2019): Water tracks intensify surface energy and mass exchange in the Antarctic McMurdo Dry Valleys. The Cryosphere, 13(8), 2203-2219, https://doi.org/10.5194/tc-13-2203-2019
+Abstract:	From 26 December 2012 to 21 January 2013 we measured relevant parameters for surface energy and mass exchange calculation at three closely collocated sites near the Ross Sea shore in the valley floor of lower Taylor Valley, McMurdo Dry Valleys, Antarctica. At any time during the experiment, two surface energy balance stations were operated: One station was installed throughout the whole period at the investigated water track, referred to as WT. The other station was operated as a reference representing the dominant non-water track (NWT), bare soil surfaces in lower Taylor Valley; it was successively installed at two sites with different soil textures: PLD was located on a paleolake delta dominated by fine surficial sediments, while GT represented coarse glacial till.
+	At each station the following instruments were installed: A net radiometer (NR01, Hukseflux Thermal Sensors B.V., Delft, NL) was used for measuring solar and terrestrial radiation, an ultrasonic anemometer (81000 VRE, R.M. Young Company, Traverse City, MI, USA) and an infrared gas analyzer (LI-7500, LI-COR Inc., Lincoln, NE, USA) recorded data for turbulent heat flux estimation via the eddy-covariance method. Thermistors and thermocouples recorded soil temperatures in several depths in the thawed layer. Additionally, we used a thermal properties analyzer (KD2 Pro, Decagon Devices, Pullman, WA, USA) for measuring soil thermal properties for several
+	samples taken from the surface.
+	Eddy-covariance processing was done with the bmmflux tool of the University of Bayreuth (see appendix in Thomas et al., 2009), including data quality assessment after Foken et al. (2004). Turbulent flux footprints were modeled with the TERRAFEX model of the University of Bayreuth (Göckede, 2001) which provided contributions of adjacent land cover types
+	to the flux footprint.
+	Further information on the experimental setup can be found in Linhardt et al. (2019).
+Keyword(s):	land-air exchange; Permafrost; polar desert; soil hydrology; surface energy balance; water track
+Related to:	Foken, Thomas; Göckede, Mathias; Mauder, Matthias; Mahrt, L; Amiro, B; Munger, W (2004): Post-Field Data Quality Control, in: Handbook of Micrometeorology. Lee, X; Law, B; Massman, W (eds.), Atmospheric and Oceanographic Sciences Library, Springer Science + Business Media Inc, Dordrecht, 181-208, https://doi.org/10.1007/1-4020-2265-4_9
+	Göckede, Mathias (2001): Die Verwendung des footprint-Modells nach SCHMID (1997) zur stabilitätsabhängigen Bestimmung der Rauhigkeitslänge. Arbeitsergebnisse, Universität Bayreuth, Abt. Mikrometeorologie, 1-28, https://epub.uni-bayreuth.de/267/
+	Thomas, Christoph K; Law, Beverly E; Irvine, James; Martin, Jonathan G; Pettijohn, J Cory; Davis, Kent J (2009): Seasonal hydrology explains interannual and seasonal variation in carbon and water exchange in a semiarid mature ponderosa pine forest in central Oregon. Journal of Geophysical Research, 114(G4), https://doi.org/10.1029/2009JG001010
+Coverage:	MEDIAN LATITUDE: -77.578520 * MEDIAN LONGITUDE: 163.486014 * SOUTH-BOUND LATITUDE: -77.580970 * WEST-BOUND LONGITUDE: 163.475040 * NORTH-BOUND LATITUDE: -77.576320 * EAST-BOUND LONGITUDE: 163.495270
+	DATE/TIME START: 2012-12-26T21:15:00 * DATE/TIME END: 2013-01-21T13:15:00
+Event(s):	Taylor_valley * LATITUDE: -77.637000 * LONGITUDE: 162.842000 * LOCATION: Transantarctic Mountains
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0) (URI: https://creativecommons.org/licenses/by/4.0/)
+Size:	3 datasets
+*/
+/* TABULAR SUMMARY OF DATASETS LISTED IN THIS COLLECTION: */
+Filename	Citation of child dataset
+Taylor_valley_NWT.tab	Linhardt, Tobias; Levy, Joseph S; Thomas, Christoph K (2023): Non-Water track properties of a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica. https://doi.org/10.1594/PANGAEA.904660
+Taylor_valley_soil_prop.tab	Linhardt, Tobias; Levy, Joseph S; Thomas, Christoph K (2023): Soil thermal properties of a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica. https://doi.org/10.1594/PANGAEA.904284
+Taylor_valley_WT.tab	Linhardt, Tobias; Levy, Joseph S; Thomas, Christoph K (2023): Water track properties of a polar desert in Taylor Valley, McMurdo Dry Valleys, Antarctica. https://doi.org/10.1594/PANGAEA.904661

@@ -1,0 +1,14 @@
+59af8ab9b2b735eb5de82c1d44b7bf7c metadata/sysmeta/sysmeta-urn_uuid_0adfa385-71dd-4d76-a6cb-60aa38161023.xml
+c625ed1a99eee5344266670ff3ab899e metadata/sysmeta/sysmeta-resource_map_urn_uuid_4500c407-1e5d-4516-b7cf-ce49a77b3eb1.xml
+7d2290db4266d8ce97bc242e8cac8016 metadata/sysmeta/sysmeta-15f8ac93-37f2-4045-b45b-35d078b82b46.xml
+7c0b6c6af3341f0af4bb50302acee26b bag-info.txt
+660f96b99cc1d256b56bf80e39d2e9c8 metadata/science-metadata.xml
+f6f2203a3a28a959c0d3e9a19a7b2e9c metadata/sysmeta/sysmeta-urn_uuid_bea0ec74-83e4-4f8b-ab44-1e1d089bf5da.xml
+0759b317c267d74d9b2485f17111de92 metadata/sysmeta/sysmeta-urn_uuid_f2d76947-5ee3-4fac-8b4a-c96cfd24cd8a.xml
+63b05bd00040d6fa6fe34dbded3f13c0 metadata/sysmeta/sysmeta-urn_uuid_b563b237-f6aa-4447-9281-1e113306694c.xml
+b3978ba73b28a1d50004bdd401888c3e metadata/sysmeta/sysmeta-urn_uuid_5a6dda34-e97b-4730-a398-2a4cb7f01ce9.xml
+eaa2c609ff6371712f623f5531945b44 bagit.txt
+7af26ce80fa77a9466e97398a49dbd33 metadata/oai-ore.xml
+c64cf933cf31ff10764bcdb4a0dd9311 manifest-md5.txt
+0d4472d1d5fe22bb269e08dfd84050f8 metadata/sysmeta/sysmeta-urn_uuid_ed1f2aa9-79b6-4ddd-af6a-4b3cc9ed6605.xml
+8cc5c55f24b9b5635918281019384b60 metadata/sysmeta/sysmeta-urn_uuid_afae4152-6a4a-44e2-bfae-88b6d4cf62e2.xml
