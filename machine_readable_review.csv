@@ -1,74 +1,72 @@
 Study,DOI,region_code,Subregion (Upper Kup= 9 ; Imn = 17),slope_degrees_min,slope_degrees_max,maat_min,maat_max,map_total,map_rain,map_snow,Sarah CAVM veg community,Sarah Koppen,Latitude (N),Longitude (E),defs
-"Cantlon, 1961",NA,AK,NA,,,,,,,,NA,NA,NA,NA,NA
-"Chapin et al., 1988",10.2307/1941017,AK,North Slope Toolik Area (Everett Pond),5,5,,,,,,G4,Dfc,68.75,-149.56667,Distinct bands of vegetation 5-15 m wide and with a soil surface 10-20 cm lower than adjacent tundra
+"Morgenstern et al., 2020",10.1002/ppp.2087,RU,Siberian Laptev Sea,,,,,,,,G4,Dfd,72.83333,125,grass covered hollows common in permafrost zone and forming the flow paths of suprapermafrost slope water slope flow bends–hollows weakly reflected in the relief
+"Walker et al., 1982",10.3334/ORNLDAAC/1384,AK,Arctic National Wildlife Refuge,,,,,,,,G4,ET,69.98333,-143.83333,shallow channels that conduct snow meltwater and subsurface water during the thaw season
+"Godin et al., 2014",10.1088/1748-9326/9/10/105010,HC,Bylot Island in Nunavut,,,,,,,,,,73.15,-79.95,NA
+"Hauber et al., 2019",10.1144/SP467.12,AN,East Antarctica,,,-30,-14,,,,Ant,EF,-71.808,162.01,shallow underground pathways for liquid water on the top of the permafrost table
+"Rodenhizer et al., 2022",10.1080/15230430.2022.2118639,AK,Eightmile lake,,,,,,,,,,63.88306,-149.22556,tracks that route water downslope but may or may not have surface water
+"McFadden et al.,  2001",10.1175/1520-0442(2001)014<0336:SSIIAT>2.0.CO;2,AK,Happy Valley,,,,,,,,S1,Dfc,69.1,-149,areas of subsurface drainage
+"Parr et al., 2020",10.1029/2020WR027823,AK,Happy Valley,,,,,,,,G3,Dfc,68.88,-149.09,lightly incised hillslope drainage pathways that show little branching and are controlled by permafrost
 "Cheng et al., 1998",10.2136/sssaj1998.03615995006200030016x,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,Soil from water tracks is found in small drainage-ways of intermittent water flow in the midslope areas
-"Del Vecchio et al., 2023",10.1029/2023JF007156,AK,Seward,15,20,-11,-6,,400,300,S2,ET,65.04697,-166.26831,"curvilinear, zero-order geomorphic features that concentrate surface and subsurface flow paths in permafrost uplands"
-"Evans et al., 2020",10.1029/2019JF005256,AK,Upper Kuparuk River,4.8,4.8,-10,-10,,,,S1,Dfc,68.61667,-149.33333,"zero‐order geomorphic features that streak periglacial landscapes and transmit water downslope from upland areas to larger rivers
-downstream"
 "Griffin et al., 2018",10.1657/1938-4246-45.1.39,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,shallow drainage channels spaced tens of meters apart and are common on the mid- to lower portions of most hills
-"Harley et al., 1989",,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,NA
-"Harms & Ludwig, 2016",10.1007/s10533-016-0181-0,AK,Upper Kuparuk River,,,-10,-10,320,,,S1,Dfc,68.61667,-149.33333,zero-order channels that contain perennial subsurface flow
-"Harms et al., 2019",10.1007/s10021-019-00355-z,AK,Upper Kuparuk River,,,-10,,334,,,S1,Dfc,68.61667,-149.33333,zero-order flowpaths which drain hillslopes in upland tundra
-"Harms et al., 2020",10.1029/2020JG005889,AK,Upper Kuparuk River,,,-10,-10,320,,,S1,Dfc,68.61667,-149.33333,vegetated depressions that hydrologically connect hillslope soils to lakes and streams
+"Harley et al., 1989",NA,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,NA
 "Hastings et al., 1989",10.1111/j.1600-0587.1989.tb00850.x,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,channel water flow to the valley bottom stream
 "Hinzman et al., 1991",10.1016/0165-232X(91)90001-W,AK,Imnavait Creek,,,-7.4,-7.4,,,,S1,Dfc,68.63333,-149.41667,drain the hillslopes
 "Kane et al., 1989",10.1111/j.1600-0587.1989.tb00845.x,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,Small drainage features that carry water off slope of the valley bottom
 "Kane et al., 1991",10.1029/91WR00262,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,small channels that efficently carry water off the slopes towards the stream channel
 "Kummerow et al, 1987",10.1111/j.1600-0587.1987.tb00774.x,AK,Imnavait Creek,10,10,,,166,,,S1,Dfc,68.63333,-149.41667,Undefined
 "Matthes-Sears et al., 1988",10.1080/00040851.1988.12002682,AK,Imnavait Creek,10,10,,,,,,S1,Dfc,68.63333,-149.41667,zones of usually  several  meters  in  width  where water drained from a portion of the  slope  runs  downslope to feed into a permanent water course at the valley bottom
-"McFadden et al.,  2001",10.1175/1520-0442(2001)014<0336:SSIIAT>2.0.CO;2,AK,Happy Valley,,,,,,,,S1,Dfc,69.1,-149,areas of subsurface drainage
 "McNamara et al.,  2008",10.1002/hyp.6920,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,"a linear channel that flows directly down a slope draining an enhanced soil moisture zone, and is best detected by a change in vegetationfrom the surrounding hillslope"
 "McNamara et al., 1997",10.1029/97WR01033,AK,Imnavait Creek,,,,,,180,120,S1,Dfc,68.63333,-149.41667,a linear zone of enhanced soil moisture that flows directly down a slope and is best detected by a change in vegetation from the surrounding hillslope
 "McNamara et al., 1998",10.1029/97WR01033,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,"a linear channel that flows directly down a slope draining an enhanced soil moisture zone, and is best detected by a change in vegetation from the surrounding hillslope"
 "McNamara et al., 1999",10.1016/S0169-555X(99)00017-3,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,linear zones of enhanced soil moisture in poorly defined depressions that overlying frozen ground and convey flow downslope perendicular to the elevation contours
-"Murray et al., 1989",,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,channel water flow to the valley bottom stream
+"Murray et al., 1989",NA,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,channel water flow to the valley bottom stream
 "Murray et al., 1993",10.1007/BF00317733,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,NA
 "Neilson et al., 2018",10.1029/2018GL078140,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,oriented parallel to the slope and spaced10–20 m apart and function to shorten hydrologic response time to precipitation events 
-"O'Connor et al., 2019",10.1029/2018WR024636,AK,Imnavait Creek,2.3,11.3,,,350,,,S1,Dfc,68.63333,-149.41667,Water tracks are zero‐order geomorphic drainage features that can funnel substantial water ﬂows from the hillslope
 "Oberbauer et al.,  1989",10.1111/J.1600-0587.1989.TB00853.X,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,Channels of temporary water flow
 "Oberbauer et al.,  1991",10.1080/00040851.1991.12002834,AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,a small drainage of intermittent water flow
-"Parr et al., 2020",10.1029/2020WR027823,AK,Happy Valley,,,,,,,,G3,Dfc,68.88,-149.09,lightly incised hillslope drainage pathways that show little branching and are controlled by permafrost
-"Pinzner et al., 2024",10.1029/2022WR033440,AK,Utqiagvik,,,,,,,,G3,ET,71.322,-156.612,Immature drainage channels common throughout the Arctic
-"Rodenhizer et al., 2022",10.1080/15230430.2022.2118639,AK,Eightmile lake,,,,,,,,,,63.88306,-149.22556,tracks that route water downslope but may or may not have surface water
-"Rushlow & Godsey, 2017",10.1002/hyp.11294,AK,Upper Kuparuk River,3.6,8,,,217,,,S1,Dfc,68.61667,-149.33333,"curvilinear, unchannelized zones of preferential flow that develop a range of biophysical characteristics in the context of the local slope, climate, and surficial geology zero‐order extensions of the drainage network "
-"Rushlow et al.,  2020",10.1007/s10040-020-02166-2,AK,Upper Kuparuk River,,,-7.7,-5.7,,,,S1,Dfc,68.61667,-149.33333,zero-order drainage features
+"O'Connor et al., 2019",10.1029/2018WR024636,AK,Imnavait Creek,2.3,11.3,,,350,,,S1,Dfc,68.63333,-149.41667,Water tracks are zero‐order geomorphic drainage features that can funnel substantial water ﬂows from the hillslope
 "Schramm et al.,  2007",10.1029/2006JG000326,AK,Imnavait Creek,,,-7.4,-7.4,340,,,S1,Dfc,68.63333,-149.41667,shrubby corridors with a width of 2 m and spaced at 10–20 m along the hillslope
 "Stieglitz et al., 2003",10.1029/2003GB002041,AK,Imnavait Creek,,,,,,,,NA,NA,68.63333,-149.41667,"regions of enhanced soil moisture that run down the hillslope at a spacing of ∼10–20 m, channel flow down the slope"
-"Trochim et al.,  2016a",10.1002/2015EA000111,AK,Upper Kuparuk River/North Slope Toolik Area,1.7,11.3,,,,,,S1,Dfc,68.61667,-149.33333,saturated linear-curvilinear stripes that act as first-order pathways for transporting water off of hillslopes into valley bottoms and streams
-"Trochim et al.,  2016b",10.1002/2015EA000112,AK,North Slope Toolik AreaUpper Kuparuk River/,,,,,,,,S1,Dfc,68.61667,-149.33333,pathways for transporting water off hillslopes in the region linear-curvelinear saturated stripes where water is confined to the active layer (<1 m depth) due to the underlying continuous permafrost acting as an impervious boundary
-"Voytek et al.,  2016",10.1190/geo2015-0172.1,AK,Upper Kuparuk River,,,,,,,,S1,Dfc,68.61667,-149.33333,Common drainage features of arctic hillslopes
-"Walker et al., 1982",10.3334/ORNLDAAC/1384,AK,Arctic National Wildlife Refuge,,,,,,,,G4,ET,69.98333,-143.83333,shallow channels that conduct snow meltwater and subsurface water during the thaw season
 "Walker et al., 1989a",10.1111/j.1600-0587.1989.tb00844.x,AK,Imnavait Creek,,,-11,-7,203.5,,,S1,Dfc,68.63333,-149.41667,shallow channels that conduct snow meltwater and subsurface water during the thaw season giving the topography a ribbed appearance
+"Walker et al., 1989a","Wetland Soils and Vegetation, Arctic Foothills, AK.",AK,Imnavait Creek,,,,,,,,S1,Dfc,68.63333,-149.41667,shallow channels that conduct snow meltwater and subsurface water during the thaw season
 "Ball & Levy, 2015",10.1002/2014JG002856,AN,McMurdo Dry Valleys,5,5,,,,,,Ant,EF,-77.67,162.93,"narrow bands of high soil moisture that route water downslope, without overland flow (as in a stream), through soils in polar regions"
 "Chan-Yam  et al., 2019",10.1016/j.epsl.2017.08.003,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,dark linear features of increased soil moisture that flow downslope over the spring and summer
 "George et al., 2021",10.3389/fmicb.2021.616730,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,"identified as visibly damp (dark) soils which grow downslope each summer with the release of meltwater from snow, glaciers, and ground ice"
 "Gooseff et al.,  2013",10.1007/s10040-012-0926-3,AN,McMurdo Dry Valleys,,,-18,-18,,,,Ant,EF,-77.5,162,"narrow bands of high soil moisture that route water downslope, in the absence of overland ﬂow, through permafrost dominated soils in polar regions "
-"Hauber et al., 2019",10.1144/SP467.12,AN,East Antarctica,,,-30,-14,,,,Ant,EF,-71.808,162.01,shallow underground pathways for liquid water on the top of the permafrost table
 "Kuentz et al.,  2022",10.1080/15230430.2022.2123858,AN,McMurdo Dry Valleys,1,21,-18,-18,,,,Ant,EF,-77.624,162.887,"narrow bands of high soil moisture that route water downslope through soils above the ice table, largely in the absence of overland flow"
 "Langford et al., 2014",10.1017/S0954102014000601,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,zones of high soil moisture that route snow melt downslope over the ice table in polar environments in the absence of well-defined channels
 Levy 2015,10.1016/j.geomorph.2014.02.033,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,"Water tracks are shallow groundwater features that form when liquid water flows through the active layer, above the ice table"
 Levy and Schmidt 2016,10.1017/S0954102016000201,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,hillslope-scale groundwater channels
-"Levy et al.,  2011",10.1130/B30436.1,AN,Taylor Valley,5,25,-18,-18,25,,,Ant,EF,-77.7,162.6,"Linear or downslope-branching zones of enhanced soil moisture and downslope water transport, often occurring in the absence of well-defined channels route much of the water and nutrient fl ux through Arctic, permafrost-dominated soils 
-"
 "Levy et al., 2014",10.1017/S095410201300045X,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,"zones of high soil moisture that route shallow groundwater down-slope, through the active layer and above the ice table"
 "Linhardt et al., 2019",10.5194/tc-13-2203-2019,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.68,162.62,channel-shaped high-moisture zones in the active layer of permafrost soils and are important solute and water pathways
 "Schmidt and Levy, 2017",10.1016/j.geomorph.2017.01.038,AN,McMurdo Dry Valleys,,,-18,-18,,,,Ant,EF,-78,164.12,Preferential active layer flow paths
-"Toner et al.,  2022",10.1016/j.epsl.2022.117582,AN,Taylor Valley,,,,,25,,,Ant,EF,-77.56475,161.19712,NA
 "Winsor et al., 2020",10.1017/S0954102020000139,AN,McMurdo Dry Valleys,,,,,,,,Ant,EF,-77.67,162.93,zones of high soil moisture
+"Cantlon, 1961",NA,AK,NA,,,,,,,,NA,NA,NA,NA,NA
+"Gubareva et al., 2023",10.1134/s0097807823010086,RU,NA,,,,,,,,NA,NA,NA,NA,"5 15 m wide bands of high productivity vegetation resulting from subsurface drainage and associated increases in soil temperature, moisture, and nutrient availability driven by topography and variability in active layer depth"
+"Chapin et al., 1988",10.2307/1941017,AK,North Slope Toolik Area (Everett Pond),5,5,,,,,,G4,Dfc,68.75,-149.56667,Distinct bands of vegetation 5-15 m wide and with a soil surface 10-20 cm lower than adjacent tundra
+"Trochim et al.,  2016b",10.1002/2015EA000112,AK,North Slope Toolik AreaUpper Kuparuk River/,,,,,,,,S1,Dfc,68.61667,-149.33333,pathways for transporting water off hillslopes in the region linear-curvelinear saturated stripes where water is confined to the active layer (<1 m depth) due to the underlying continuous permafrost acting as an impervious boundary
+"Huang et al., 2018",10.3390/rs10122067,TI,northeastern tibet plateau,,,,,,,,NA,ET,38,100.86889,narrow features
+"Tananaev et al.,  2021a",10.3390/hydrology8030106,RU,North-European Arctic Russia,,,-5.6,-5.6,530,,,S1,Dfc,67.33694,63.65694,NA
+"Del Vecchio et al., 2023",10.1029/2023JF007156,AK,Seward,15,20,-11,-6,,400,300,S2,ET,65.04697,-166.26831,"curvilinear, zero-order geomorphic features that concentrate surface and subsurface flow paths in permafrost uplands"
+"Curasi et al.,  2016",10.1088/1748-9326/11/4/045002,RU,Siberia/Kolyma,1.4,1.4,-14.1,-9.3,153,,,G4,Dsc,69.34,161.51,large variety of actual landforms representing preferential flow alignment in the subsurface compartment
+"Tarbeeva et al., 2020",10.1051/e3sconf/202016304007,RU,Siberia/Lena,,,,,,,,G4,Dsd,72.1,128.3,poorly defined depressions with high soil moisture
+"Levy et al.,  2011",10.1130/B30436.1,AN,Taylor Valley,5,25,-18,-18,25,,,Ant,EF,-77.7,162.6,"Linear or downslope-branching zones of enhanced soil moisture and downslope water transport, often occurring in the absence of well-defined channels route much of the water and nutrient fl ux through Arctic, permafrost-dominated soils 
+"
+"Toner et al.,  2022",10.1016/j.epsl.2022.117582,AN,Taylor Valley,,,,,25,,,Ant,EF,-77.56475,161.19712,NA
+"Evans et al., 2020",10.1029/2019JF005256,AK,Upper Kuparuk River,4.8,4.8,-10,-10,,,,S1,Dfc,68.61667,-149.33333,"zero-order geomorphic features that streak periglacial landscapes and transmit water downslope from upland areas to larger rivers
+downstream"
+"Harms & Ludwig, 2016",10.1007/s10533-016-0181-0,AK,Upper Kuparuk River,,,-10,-10,320,,,S1,Dfc,68.61667,-149.33333,zero-order channels that contain perennial subsurface flow
+"Harms et al., 2019",10.1007/s10021-019-00355-z,AK,Upper Kuparuk River,,,-10,,334,,,S1,Dfc,68.61667,-149.33333,zero-order flowpaths which drain hillslopes in upland tundra
+"Harms et al., 2020",10.1029/2020JG005889,AK,Upper Kuparuk River,,,-10,-10,320,,,S1,Dfc,68.61667,-149.33333,vegetated depressions that hydrologically connect hillslope soils to lakes and streams
+"Rushlow & Godsey, 2017",10.1002/hyp.11294,AK,Upper Kuparuk River,3.6,8,,,217,,,S1,Dfc,68.61667,-149.33333,"curvilinear, unchannelized zones of preferential flow that develop a range of biophysical characteristics in the context of the local slope, climate, and surficial geology zero‐order extensions of the drainage network "
+"Rushlow et al.,  2020",10.1007/s10040-020-02166-2,AK,Upper Kuparuk River,,,-7.7,-5.7,,,,S1,Dfc,68.61667,-149.33333,zero-order drainage features
+"Voytek et al.,  2016",10.1190/geo2015-0172.1,AK,Upper Kuparuk River,,,,,,,,S1,Dfc,68.61667,-149.33333,Common drainage features of arctic hillslopes
+"Trochim et al.,  2016a",10.1002/2015EA000111,AK,Upper Kuparuk River/North Slope Toolik Area,1.7,11.3,,,,,,S1,Dfc,68.61667,-149.33333,saturated linear-curvilinear stripes that act as first-order pathways for transporting water off of hillslopes into valley bottoms and streams
+"Pinzner et al., 2024",10.1029/2022WR033440,AK,Utqiagvik,,,,,,,,G3,ET,71.322,-156.612,Immature drainage channels common throughout the Arctic
 "Comte et al., 2018",10.1038/s41396-018-0236-4,HC,Ward Hunt Island (High Arctic),,,,,,,,B1,ET,83.08,-74.14,conduits of subsurface flow over the permafrost table
-"Godin et al., 2014",10.1088/1748-9326/9/10/105010,HC,Bylot Island in Nunavut,,,,,,,,,,73.15,-79.95,NA
 "Paquette et al., 2017",10.1139/as-2016-0014,HC,Ward Hunt Island (High Arctic),3.5,9.7,-17.9,-17.9,158,,,B1,ET,83.08,-74.14,preferential subsurface flow paths
 "Paquette et al., 2018",10.1002/hyp.11483,HC,Ward Hunt Island (High Arctic),,,-17.9,-17.9,,,,B1,ET,83.08,-74.14,"subsurface flow pathways of diverse morphology, usually in permafrost areas, whose principal hydrological role is to carry snowmelt water and sometimes rainfall downslope as subsurface flow"
 "Paquette et al., 2020",10.1002/ppp.2066,HC,Ward Hunt Island (High Arctic),,,,,,,,B1,ET,83.08,-74.14,"subsurface flow pathways of diverse morphologies, mostly studied in permafrost areas, with the hydrological role of carrying snowmelt and rainfall downslope as subsurface flows"
-"Steven et al., 2013",,HC,Ward Hunt Island (High Arctic),,,,,,,,B1,ET,83.08,-74.14,hill slope flow paths that drain permafrost-affected soils
-"Curasi et al.,  2016",10.1088/1748-9326/11/4/045002,RU,Siberia/Kolyma,1.4,1.4,-14.1,-9.3,153,,,G4,Dsc,69.34,161.51,large variety of actual landforms representing preferential flow alignment in the subsurface compartment
-"Gubareva et al., 2023",10.1134/s0097807823010086,RU,NA,,,,,,,,NA,NA,NA,NA,"5 15 m wide bands of high productivity vegetation resulting from subsurface drainage and associated increases in soil temperature, moisture, and nutrient availability driven by topography and variability in active layer depth"
-"Morgenstern et al., 2020",10.1002/ppp.2087,RU, Siberian Laptev Sea,,,,,,,,G4,Dfd,72.83333,125,grass covered hollows common in permafrost zone and forming the flow paths of suprapermafrost slope water slope flow bends–hollows weakly reflected in the relief
-Oblogov et al. 2020,,RU,western coast of the Yamal Peninsula,,,,,,,,,,69,67,NA
-"Tananaev et al.,  2021a",10.1016/j.earscirev.2022.103996,RU,North-European Arctic Russia,,,-5.6,-5.6,530,,,S1,Dfc,67.33694,63.65694,NA
-Tarbeeva (2020),10.3390/hydrology8030106,RU,Siberia,2,7,-5,-5,,126,260,S1,Dsc,64.6,177.2,concentrate the intermittent surface runoff
-"Tarbeeva et al., 2020a ",10.31857/S0435428121010132,RU,Siberia/Lena,4,6,-12.7,-12.7,,,,G4,Dsd,72.39,126.83,linear negative relief forms of farang mesoforms with a trough shaped transverse profile and fuzzy structural lines
-"Tarbeeva et al., 2020b ",10.1051/e3sconf/202016304007,RU,Siberia/Lena,,,,,,,,G4,Dsd,72.1,128.3,poorly defined depressions with high soil moisture
-"Tarbeeva et al., 2021b",10.24411/2687-1092-2020-10733,RU,Siberia/Chuktotka,1,10,,,,,,NA,NA,NA,NA,"hollows do not obey the fractal patterns of similarity characteristic of a tree like channel network and are an immature erosion network, the development of which the second is limited by the close occurrence of frozen aquifer"
-"Tarbeeva et al., 2024",,RU,"Yakutia (Russian Federation), on the coast of Tiksi Bay in the Laptev Sea",,,,,,,,,,71.6375,128.8645,NA
-"Huang et al., 2018",10.3390/rs10122067,TI,northeastern tibet plateau,,,,,,,,NA,ET,38,100.86889,narrow features
+"Steven et al., 2013",10.1371/journal.pone.0071489,HC,Ward Hunt Island (High Arctic),,,,,,,,B1,ET,83.08,-74.14,hill slope flow paths that drain permafrost-affected soils
+Oblogov et al. 2020,10.3390/geosciences10100412,RU,western coast of the Yamal Peninsula,,,,,,,,,,69,67,NA
+"Tarbeeva et al., 2024",10.1002/ppp.2229,RU,"Yakutia (Russian Federation), on the coast of Tiksi Bay in the Laptev Sea",,,,,,,,,,71.6375,128.8645,NA
